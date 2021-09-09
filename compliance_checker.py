@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-#!/usr/local/bin/python3
 
 #################################################################
 # Checks various items via the JAMF API to check compliance requirements
